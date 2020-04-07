@@ -43,8 +43,7 @@ g = Generator(1, 16, 1)
 Z_0 = torch.randn(1000, 1)
 
 # Run for 25000 iterations
-n_iters = 2500
-
+n_iters = 25000
 # Number of samples per update step
 m = 64
 
